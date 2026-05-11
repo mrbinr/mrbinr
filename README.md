@@ -1,6 +1,6 @@
 # Pascal Legroux aka mrbinr
 
-**Team Lead & Lead Tech Backend** · +20 ans d'expérience · PHP/Symfony · Ambérieux-en-Dombes (01)
+**Team Lead & Lead Tech Backend** · +20 ans d'expérience · PHP/Symfony · Ambérieux-en-Dombes (01) · Région lyonnaise
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pascal--legroux-blue?logo=linkedin)](https://linkedin.com/in/pascal-legroux-a6b53011)
 [![Site](https://img.shields.io/badge/Site-mrbinr.com-black?logo=astro)](https://mrbinr.com)
