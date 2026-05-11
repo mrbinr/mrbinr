@@ -15,12 +15,13 @@ Team Lead et Lead Tech Backend passionné par les projets innovants, la montée 
 
 ## Compétences techniques
 
-| Domaine               | Technologies                                                                     |
-| --------------------- | -------------------------------------------------------------------------------- |
-| **Backend**           | PHP · Symfony · MySQL · MongoDB · PostgreSQL · API REST · NodeJS                 |
-| **Frontend**          | HTML · CSS · JavaScript · ReactJS · React Native · VueJS · Astro JS · Tailwind   |
-| **DevOps & outils**   | Docker · Ansible · Redis · Nginx · GitHub · GitLab · Bitbucket · Debian · Ubuntu |
-| **Gestion de projet** | Confluence · JIRA · Notion · Agile · Scrum                                       |
+| Domaine               | Technologies                                                                                    |
+| --------------------- | ----------------------------------------------------------------------------------------------- |
+| **IA**                | Claude Code · Skills · Open Router · Open Code                                                  |
+| **Backend**           | PHP · Symfony · MySQL · MongoDB · PostgreSQL · API REST · NodeJS                                |
+| **Frontend**          | HTML · CSS · JavaScript · React · React Native (with Claude Code) · VueJS · Astro JS · Tailwind |
+| **DevOps & outils**   | Docker · Ansible · Redis · Nginx · GitHub · GitLab · Bitbucket · Debian · Ubuntu                |
+| **Gestion de projet** | Confluence · JIRA · Notion · Agile · Scrum                                                      |
 
 ---
 
