@@ -39,15 +39,14 @@ Team Lead et Lead Tech Backend passionné par les projets innovants, la montée 
 
 ## Projets personnels
 
-| Projet                                                   | Stack                                                         |
-| -------------------------------------------------------- | ------------------------------------------------------------- |
-| [mrbinr.com](https://mrbinr.com) — Site personnel        | Astro JS · Tailwind · Firebase                                |
-| [toolbox.mrbinr.com](https://toolbox.mrbinr.com)         | HTML · Javascript • Shadcn                                    |
-| **Myoon** — Application mobile                           | React Native · Tailwind · Expo · TypeScript                   |
-| [lgxstudio.fr](https://lgxstudio.fr)                     | Astro JS · CSS · JavaScript                                   |
-| [grilles-gagnantes.fr](https://www.grilles-gagnantes.fr) | HTML · Tailwind · Javascript                                  |
-| [toutdonner.com](https://toutdonner.com)                 | Symfony · Redis · Docker · Ansible · Imgproxy · Nginx · MySQL |
-| [modpas.com](https://modpas.com)                         | React · Bootstrap · Firebase                                  |
+| Projet                                                   | Stack                                       |
+| -------------------------------------------------------- | ------------------------------------------- |
+| [mrbinr.com](https://mrbinr.com) — Site personnel        | Astro JS · Tailwind · Firebase              |
+| [toolbox.mrbinr.com](https://toolbox.mrbinr.com)         | HTML · Javascript • Shadcn                  |
+| **Myoon** — Application mobile                           | React Native · Tailwind · Expo · TypeScript |
+| [lgxstudio.fr](https://lgxstudio.fr)                     | Astro JS · CSS · JavaScript                 |
+| [grilles-gagnantes.fr](https://www.grilles-gagnantes.fr) | HTML · Tailwind · Javascript                |
+| [modpas.com](https://modpas.com)                         | React · Bootstrap · Firebase                |
 
 ---
 
