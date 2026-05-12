@@ -9,19 +9,19 @@
 
 ## Profil
 
-Team Lead et Lead Tech Backend passionné par les projets innovants, la montée en compétences des équipes et la qualité logicielle. Plus de 10 ans d'expérience en management technique et développement PHP/Symfony, avec une double casquette : **pilotage d'équipes pluridisciplinaires** et **contribution technique active**.
+Team Lead et Lead Tech Backend passionné par les projets innovants, la montée en compétences des équipes et la qualité logicielle. Plus de 20 ans d'expérience en management technique et développement PHP/Symfony, avec une double casquette : **pilotage d'équipes pluridisciplinaires** et **contribution technique active**.
 
 ---
 
 ## Compétences techniques
 
-| Domaine               | Technologies                                                                                    |
-| --------------------- | ----------------------------------------------------------------------------------------------- |
-| **IA**                | Claude Code · Skills · Open Router · Open Code                                                  |
-| **Backend**           | PHP · Symfony · MySQL · MongoDB · PostgreSQL · API REST · NodeJS                                |
-| **Frontend**          | HTML · CSS · JavaScript · React · React Native (with Claude Code) · VueJS · Astro JS · Tailwind |
-| **DevOps & outils**   | Docker · Ansible · Redis · Nginx · GitHub · GitLab · Bitbucket · Debian · Ubuntu                |
-| **Gestion de projet** | Confluence · JIRA · Notion · Agile · Scrum                                                      |
+| Domaine               | Technologies                                                                            |
+| --------------------- | --------------------------------------------------------------------------------------- |
+| **IA**                | Claude Code · Skills · Open Router · Open Code                                          |
+| **Backend**           | PHP · Symfony · MySQL · MongoDB · PostgreSQL · API REST · NodeJS                        |
+| **Frontend**          | HTML · CSS · JavaScript · React · React Native (with Claude Code) · Astro JS · Tailwind |
+| **DevOps & outils**   | Docker · Ansible · Redis · Nginx · GitHub · GitLab · Bitbucket · Debian · Ubuntu        |
+| **Gestion de projet** | Confluence · JIRA · Notion · Agile · Scrum                                              |
 
 ---
 
